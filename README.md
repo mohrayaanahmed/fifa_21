@@ -31,7 +31,7 @@ Each position has its own ipynb file, and the positions (after grouping) are:
 7. Winger/Wide Midfielder
 8. Striker
 
-There are total 9 ipynb files, one csv file, one png file and one README file. The csv file is the dataset used and the png file is the final output. Each of the positions defined above has their own ipynb file. The first ipynb file is 'fifa_introduction'. The rest are the positions ideally in an order defefined above.
+There are total 9 ipynb files, one csv file, one png file and one README file. The csv file is the dataset used and the png file is the final output. Each of the positions defined above has their own ipynb file. The first ipynb file is 'fifa_introduction'. The rest are the positions ideally in an order defined above.
 
 ### **Results and Conclusion:**
 The final result is in a .png file, 'Attributes_for_all_positions'. It includes a table consisting of the most important attributes for each position. Therefore, when procuring a young talent on FIFA 21 without scouting, one can simply identify if a player will be potentially great or not by looking at their attribute stats. Furthermore, they can train them on specic attributes to ensure that the player reaches their dynamic potential. 
